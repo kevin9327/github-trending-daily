@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>오늘의 GitHub 트렌딩</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">오늘 순위</p>
+          <h1>GitHub 트렌딩</h1>
+        </div>
+        <div class="actions">
+          <button id="refreshButton" type="button" aria-label="트렌딩 데이터 새로고침" title="새로고침">
+            <span aria-hidden="true">새로</span>
+          </button>
+        </div>
+      </header>
+
+      <section class="status-panel" aria-live="polite">
+        <div>
+          <span class="label">기준일</span>
+          <strong id="dateValue">-</strong>
+        </div>
+        <div>
+          <span class="label">가져온 시간</span>
+          <strong id="fetchedValue">-</strong>
+        </div>
+        <div>
+          <span class="label">저장소 수</span>
+          <strong id="countValue">-</strong>
+        </div>
+        <div>
+          <span class="label">상태</span>
+          <strong id="statusValue">불러오는 중</strong>
+        </div>
+      </section>
+
+      <section class="learning-board" aria-labelledby="learningTitle">
+        <div class="learning-copy">
+          <p class="eyebrow">자동 갱신 학습 보드</p>
+          <h2 id="learningTitle">오늘 뜨는 기술을 강의처럼 골라봅니다</h2>
+          <p>
+            순위만 보는 데서 끝나지 않고, 어떤 저장소를 먼저 보면 좋은지 주제별로 묶어 보여줍니다.
+            서버형에서는 주기적으로 데이터를 다시 확인하고, 정적 배포형에서는 GitHub Actions가 매일 자동 갱신합니다.
+          </p>
+        </div>
+        <div class="live-panel">
+          <span class="pulse-dot" aria-hidden="true"></span>
+          <span id="autoRefreshLabel">자동 확인 준비 중</span>
+        </div>
+        <div id="featuredList" class="featured-list" aria-label="추천 트렌딩 저장소"></div>
+      </section>
+
+      <section class="toolbar">
+        <label class="search">
+          <span>검색</span>
+          <input id="searchInput" type="search" placeholder="저장소, 소유자, 언어" autocomplete="off" />
+        </label>
+        <label class="history">
+          <span>스냅샷</span>
+          <select id="dateSelect" aria-label="스냅샷 날짜">
+            <option value="">최신</option>
+          </select>
+        </label>
+        <label class="sort">
+          <span>정렬</span>
+          <select id="sortSelect">
+            <option value="learningScore">추천 학습순</option>
+            <option value="rank">순위순</option>
+            <option value="starsToday">오늘 별 증가순</option>
+            <option value="stars">누적 별순</option>
+            <option value="forks">포크순</option>
+          </select>
+        </label>
+      </section>
+
+      <section id="categoryChips" class="category-chips" aria-label="주제별 필터"></section>
+      <p id="notice" class="notice" hidden></p>
+      <section id="repoList" class="repo-list" aria-label="GitHub Trending repositories"></section>
+      <p id="emptyState" class="empty" hidden>조건에 맞는 저장소가 없습니다.</p>
+
+      <section class="about-service" aria-labelledby="aboutTitle">
+        <div class="about-heading">
+          <p class="eyebrow">프로젝트 소개</p>
+          <h2 id="aboutTitle">오늘 개발자들이 가장 많이 보는 기술을 자동으로 모읍니다</h2>
+          <p>
+            GitHub 트렌딩은 전 세계 개발자들이 지금 관심을 갖는 오픈소스 흐름을 보여줍니다.
+            이 서비스는 그 순위를 매일 자동으로 가져와 저장하고, 검색과 정렬로 빠르게 살펴볼 수 있게 만든 도구입니다.
+          </p>
+        </div>
+
+        <div class="info-grid">
+          <article class="info-card">
+            <h3>무엇을 보여주나요?</h3>
+            <p>
+              오늘 뜨는 저장소의 순위, 설명, 사용 언어, 누적 별, 포크 수, 하루 동안 늘어난 별 수를 한 화면에 보여줍니다.
+            </p>
+          </article>
+          <article class="info-card">
+            <h3>어디에 쓸 수 있나요?</h3>
+            <p>
+              새 AI 도구 찾기, 개발 아이디어 조사, 포트폴리오 주제 선정, 기술 뉴스 큐레이션, 팀 스터디 자료 준비에 쓸 수 있습니다.
+            </p>
+          </article>
+          <article class="info-card">
+            <h3>왜 의미 있나요?</h3>
+            <p>
+              단순 링크 모음이 아니라 Playwright가 실제 웹페이지를 읽고, 날짜별 기록을 남기며, 서버가 없어도 GitHub Pages로 운영할 수 있습니다.
+            </p>
+          </article>
+        </div>
+
+        <div class="use-cases">
+          <h3>활용 예시</h3>
+          <ul>
+            <li>매일 아침 AI, 개발 도구, 프레임워크 트렌드를 빠르게 확인합니다.</li>
+            <li>어제와 오늘의 저장소를 비교해 어떤 기술이 갑자기 주목받는지 봅니다.</li>
+            <li>관심 언어나 키워드로 검색해서 공부할 오픈소스 프로젝트를 고릅니다.</li>
+            <li>GitHub Actions와 Pages를 붙여 무료에 가까운 자동 데이터 서비스를 운영합니다.</li>
+          </ul>
+        </div>
+
+        <div class="impact-strip">
+          <div>
+            <strong>자동 수집</strong>
+            <span>매일 Playwright 실행</span>
+          </div>
+          <div>
+            <strong>기록 보관</strong>
+            <span>날짜별 스냅샷 저장</span>
+          </div>
+          <div>
+            <strong>무료 운영</strong>
+            <span>GitHub Pages 배포 가능</span>
+          </div>
+          <div>
+            <strong>실전성</strong>
+            <span>API, 캐시, 검증 포함</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

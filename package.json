@@ -1,0 +1,20 @@
+{
+  "name": "github-trending-daily",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "scrape": "node src/scraper.js",
+    "build:static": "node scripts/build-static.js",
+    "verify": "node scripts/verify.js",
+    "postinstall": "playwright install chromium"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.44.1"
+  }
+}

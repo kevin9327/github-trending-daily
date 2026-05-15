@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: github-trending-daily
+    env: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: APP_TIMEZONE
+        value: Asia/Seoul
+      - key: TRENDING_SINCE
+        value: daily
+      - key: STARTUP_REFRESH
+        value: true
+      - key: SCHEDULED_REFRESH_HOUR
+        value: 9
+      - key: SCHEDULED_REFRESH_MINUTE
+        value: 10
