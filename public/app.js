@@ -15,7 +15,7 @@ const categoryChips = document.querySelector("#categoryChips");
 
 let repositories = [];
 let latestDate = "";
-let isStaticMode = false;
+let isStaticMode = window.location.hostname.endsWith("github.io");
 let activeCategory = "전체";
 let nextRefreshAt = 0;
 
