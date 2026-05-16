@@ -4,7 +4,7 @@
   "language": "all",
   "timezone": "Asia/Seoul",
   "date": "2026-05-16",
-  "fetchedAt": "2026-05-15T15:56:49.377Z",
+  "fetchedAt": "2026-05-16T04:04:46.439Z",
   "repositories": [
     {
       "rank": 1,
@@ -15,12 +15,12 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "starsText": "8,653",
-      "forksText": "715",
-      "starsTodayText": "1,272 stars today",
-      "stars": 8653,
-      "forks": 715,
-      "starsToday": 1272
+      "starsText": "9,213",
+      "forksText": "776",
+      "starsTodayText": "1,271 stars today",
+      "stars": 9213,
+      "forks": 776,
+      "starsToday": 1271
     },
     {
       "rank": 2,
@@ -31,12 +31,12 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "starsText": "192,432",
-      "forksText": "17,114",
-      "starsTodayText": "1,646 stars today",
-      "stars": 192432,
-      "forks": 17114,
-      "starsToday": 1646
+      "starsText": "192,984",
+      "forksText": "17,158",
+      "starsTodayText": "1,648 stars today",
+      "stars": 192984,
+      "forks": 17158,
+      "starsToday": 1648
     },
     {
       "rank": 3,
@@ -47,12 +47,12 @@
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "22,244",
-      "forksText": "2,411",
-      "starsTodayText": "643 stars today",
-      "stars": 22244,
-      "forks": 2411,
-      "starsToday": 643
+      "starsText": "22,548",
+      "forksText": "2,436",
+      "starsTodayText": "646 stars today",
+      "stars": 22548,
+      "forks": 2436,
+      "starsToday": 646
     },
     {
       "rank": 4,
@@ -63,12 +63,12 @@
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "starsText": "5,794",
-      "forksText": "572",
-      "starsTodayText": "712 stars today",
-      "stars": 5794,
-      "forks": 572,
-      "starsToday": 712
+      "starsText": "6,126",
+      "forksText": "605",
+      "starsTodayText": "719 stars today",
+      "stars": 6126,
+      "forks": 605,
+      "starsToday": 719
     },
     {
       "rank": 5,
@@ -79,12 +79,12 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "starsText": "57,122",
-      "forksText": "7,504",
-      "starsTodayText": "1,865 stars today",
-      "stars": 57122,
-      "forks": 7504,
-      "starsToday": 1865
+      "starsText": "57,597",
+      "forksText": "7,560",
+      "starsTodayText": "1,859 stars today",
+      "stars": 57597,
+      "forks": 7560,
+      "starsToday": 1859
     },
     {
       "rank": 6,
@@ -95,12 +95,12 @@
       "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "starsText": "17,342",
-      "forksText": "5,801",
-      "starsTodayText": "213 stars today",
-      "stars": 17342,
-      "forks": 5801,
-      "starsToday": 213
+      "starsText": "17,439",
+      "forksText": "5,803",
+      "starsTodayText": "212 stars today",
+      "stars": 17439,
+      "forks": 5803,
+      "starsToday": 212
     },
     {
       "rank": 7,
@@ -111,12 +111,12 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "134,829",
-      "forksText": "15,910",
-      "starsTodayText": "625 stars today",
-      "stars": 134829,
-      "forks": 15910,
-      "starsToday": 625
+      "starsText": "135,266",
+      "forksText": "15,948",
+      "starsTodayText": "689 stars today",
+      "stars": 135266,
+      "forks": 15948,
+      "starsToday": 689
     },
     {
       "rank": 8,
@@ -127,11 +127,11 @@
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "starsText": "20,796",
-      "forksText": "3,392",
+      "starsText": "20,928",
+      "forksText": "3,401",
       "starsTodayText": "68 stars today",
-      "stars": 20796,
-      "forks": 3392,
+      "stars": 20928,
+      "forks": 3401,
       "starsToday": 68
     },
     {
@@ -143,12 +143,12 @@
       "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "1,056",
-      "forksText": "257",
-      "starsTodayText": "305 stars today",
-      "stars": 1056,
-      "forks": 257,
-      "starsToday": 305
+      "starsText": "1,198",
+      "forksText": "265",
+      "starsTodayText": "308 stars today",
+      "stars": 1198,
+      "forks": 265,
+      "starsToday": 308
     },
     {
       "rank": 10,
@@ -159,12 +159,12 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "starsText": "90,524",
-      "forksText": "4,501",
-      "starsTodayText": "289 stars today",
-      "stars": 90524,
-      "forks": 4501,
-      "starsToday": 289
+      "starsText": "90,649",
+      "forksText": "4,518",
+      "starsTodayText": "448 stars today",
+      "stars": 90649,
+      "forks": 4518,
+      "starsToday": 448
     },
     {
       "rank": 11,
@@ -175,12 +175,12 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "starsText": "84,362",
-      "forksText": "7,311",
-      "starsTodayText": "3,155 stars today",
-      "stars": 84362,
-      "forks": 7311,
-      "starsToday": 3155
+      "starsText": "85,217",
+      "forksText": "7,382",
+      "starsTodayText": "3,132 stars today",
+      "stars": 85217,
+      "forks": 7382,
+      "starsToday": 3132
     },
     {
       "rank": 12,
@@ -191,12 +191,12 @@
       "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "2,521",
-      "forksText": "262",
-      "starsTodayText": "465 stars today",
-      "stars": 2521,
-      "forks": 262,
-      "starsToday": 465
+      "starsText": "2,788",
+      "forksText": "282",
+      "starsTodayText": "438 stars today",
+      "stars": 2788,
+      "forks": 282,
+      "starsToday": 438
     }
   ]
 }
