@@ -3,8 +3,8 @@
   "since": "daily",
   "language": "all",
   "timezone": "Asia/Seoul",
-  "date": "2026-08-28",
-  "fetchedAt": "2026-08-28T11:28:03.013Z",
+  "date": "2026-08-29",
+  "fetchedAt": "2026-08-29T07:07:43.263Z",
   "repositories": [
     {
       "rank": 1,
@@ -15,12 +15,12 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "starsText": "25,306",
-      "forksText": "1,625",
-      "starsTodayText": "4,239 stars today",
-      "stars": 25306,
-      "forks": 1625,
-      "starsToday": 4239
+      "starsText": "28,456",
+      "forksText": "1,789",
+      "starsTodayText": "4,562 stars today",
+      "stars": 28456,
+      "forks": 1789,
+      "starsToday": 4562
     },
     {
       "rank": 2,
@@ -31,12 +31,12 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "35,661",
-      "forksText": "3,428",
-      "starsTodayText": "498 stars today",
-      "stars": 35661,
-      "forks": 3428,
-      "starsToday": 498
+      "starsText": "36,975",
+      "forksText": "3,510",
+      "starsTodayText": "720 stars today",
+      "stars": 36975,
+      "forks": 3510,
+      "starsToday": 720
     },
     {
       "rank": 3,
@@ -47,12 +47,12 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "34,837",
-      "forksText": "3,923",
-      "starsTodayText": "292 stars today",
-      "stars": 34837,
-      "forks": 3923,
-      "starsToday": 292
+      "starsText": "35,127",
+      "forksText": "3,940",
+      "starsTodayText": "457 stars today",
+      "stars": 35127,
+      "forks": 3940,
+      "starsToday": 457
     },
     {
       "rank": 4,
@@ -63,12 +63,12 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "starsText": "9,909",
-      "forksText": "2,066",
-      "starsTodayText": "1,984 stars today",
-      "stars": 9909,
-      "forks": 2066,
-      "starsToday": 1984
+      "starsText": "11,462",
+      "forksText": "2,313",
+      "starsTodayText": "3,829 stars today",
+      "stars": 11462,
+      "forks": 2313,
+      "starsToday": 3829
     },
     {
       "rank": 5,
@@ -79,12 +79,12 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "starsText": "46,010",
-      "forksText": "5,087",
-      "starsTodayText": "189 stars today",
-      "stars": 46010,
-      "forks": 5087,
-      "starsToday": 189
+      "starsText": "46,226",
+      "forksText": "5,107",
+      "starsTodayText": "202 stars today",
+      "stars": 46226,
+      "forks": 5107,
+      "starsToday": 202
     },
     {
       "rank": 6,
@@ -95,12 +95,12 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "starsText": "2,417",
-      "forksText": "74",
-      "starsTodayText": "300 stars today",
-      "stars": 2417,
-      "forks": 74,
-      "starsToday": 300
+      "starsText": "2,669",
+      "forksText": "79",
+      "starsTodayText": "574 stars today",
+      "stars": 2669,
+      "forks": 79,
+      "starsToday": 574
     },
     {
       "rank": 7,
@@ -111,12 +111,12 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "52,871",
-      "forksText": "6,601",
-      "starsTodayText": "1,292 stars today",
-      "stars": 52871,
-      "forks": 6601,
-      "starsToday": 1292
+      "starsText": "53,495",
+      "forksText": "6,669",
+      "starsTodayText": "1,144 stars today",
+      "stars": 53495,
+      "forks": 6669,
+      "starsToday": 1144
     },
     {
       "rank": 8,
@@ -127,12 +127,12 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "75,228",
-      "forksText": "9,201",
-      "starsTodayText": "309 stars today",
-      "stars": 75228,
-      "forks": 9201,
-      "starsToday": 309
+      "starsText": "75,686",
+      "forksText": "9,223",
+      "starsTodayText": "326 stars today",
+      "stars": 75686,
+      "forks": 9223,
+      "starsToday": 326
     },
     {
       "rank": 9,
@@ -143,12 +143,12 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "starsText": "5,819",
-      "forksText": "470",
-      "starsTodayText": "257 stars today",
-      "stars": 5819,
-      "forks": 470,
-      "starsToday": 257
+      "starsText": "6,023",
+      "forksText": "480",
+      "starsTodayText": "246 stars today",
+      "stars": 6023,
+      "forks": 480,
+      "starsToday": 246
     },
     {
       "rank": 10,
@@ -159,12 +159,12 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "starsText": "23,938",
-      "forksText": "2,368",
-      "starsTodayText": "2,096 stars today",
-      "stars": 23938,
-      "forks": 2368,
-      "starsToday": 2096
+      "starsText": "24,488",
+      "forksText": "2,419",
+      "starsTodayText": "1,687 stars today",
+      "stars": 24488,
+      "forks": 2419,
+      "starsToday": 1687
     },
     {
       "rank": 11,
@@ -175,12 +175,12 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "starsText": "2,263",
-      "forksText": "62",
-      "starsTodayText": "986 stars today",
-      "stars": 2263,
-      "forks": 62,
-      "starsToday": 986
+      "starsText": "2,954",
+      "forksText": "81",
+      "starsTodayText": "965 stars today",
+      "stars": 2954,
+      "forks": 81,
+      "starsToday": 965
     },
     {
       "rank": 12,
@@ -191,15 +191,31 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "starsText": "73,109",
-      "forksText": "8,000",
-      "starsTodayText": "117 stars today",
-      "stars": 73109,
-      "forks": 8000,
-      "starsToday": 117
+      "starsText": "73,414",
+      "forksText": "8,015",
+      "starsTodayText": "191 stars today",
+      "stars": 73414,
+      "forks": 8015,
+      "starsToday": 191
     },
     {
       "rank": 13,
+      "owner": "swoole",
+      "name": "typephp",
+      "fullName": "swoole/typephp",
+      "url": "https://github.com/swoole/typephp",
+      "description": "Compile PHP to Native Binaries",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "starsText": "848",
+      "forksText": "40",
+      "starsTodayText": "188 stars today",
+      "stars": 848,
+      "forks": 40,
+      "starsToday": 188
+    },
+    {
+      "rank": 14,
       "owner": "marin-community",
       "name": "marin",
       "fullName": "marin-community/marin",
@@ -207,15 +223,15 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "2,790",
-      "forksText": "232",
-      "starsTodayText": "255 stars today",
-      "stars": 2790,
-      "forks": 232,
-      "starsToday": 255
+      "starsText": "2,930",
+      "forksText": "241",
+      "starsTodayText": "236 stars today",
+      "stars": 2930,
+      "forks": 241,
+      "starsToday": 236
     },
     {
-      "rank": 14,
+      "rank": 15,
       "owner": "tashfeenahmed",
       "name": "freellmapi",
       "fullName": "tashfeenahmed/freellmapi",
@@ -223,15 +239,15 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "starsText": "21,285",
-      "forksText": "3,033",
-      "starsTodayText": "405 stars today",
-      "stars": 21285,
-      "forks": 3033,
-      "starsToday": 405
+      "starsText": "21,754",
+      "forksText": "3,076",
+      "starsTodayText": "433 stars today",
+      "stars": 21754,
+      "forks": 3076,
+      "starsToday": 433
     },
     {
-      "rank": 15,
+      "rank": 16,
       "owner": "ChromeDevTools",
       "name": "chrome-devtools-mcp",
       "fullName": "ChromeDevTools/chrome-devtools-mcp",
@@ -239,15 +255,15 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "starsText": "49,854",
-      "forksText": "3,497",
-      "starsTodayText": "61 stars today",
-      "stars": 49854,
-      "forks": 3497,
-      "starsToday": 61
+      "starsText": "50,026",
+      "forksText": "3,505",
+      "starsTodayText": "67 stars today",
+      "stars": 50026,
+      "forks": 3505,
+      "starsToday": 67
     },
     {
-      "rank": 16,
+      "rank": 17,
       "owner": "rohitg00",
       "name": "ai-engineering-from-scratch",
       "fullName": "rohitg00/ai-engineering-from-scratch",
@@ -255,15 +271,15 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "50,437",
-      "forksText": "8,757",
-      "starsTodayText": "552 stars today",
-      "stars": 50437,
-      "forks": 8757,
-      "starsToday": 552
+      "starsText": "50,715",
+      "forksText": "8,789",
+      "starsTodayText": "703 stars today",
+      "stars": 50715,
+      "forks": 8789,
+      "starsToday": 703
     },
     {
-      "rank": 17,
+      "rank": 18,
       "owner": "DietrichGebert",
       "name": "ponytail",
       "fullName": "DietrichGebert/ponytail",
@@ -271,15 +287,15 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "starsText": "114,748",
-      "forksText": "6,268",
-      "starsTodayText": "1,613 stars today",
-      "stars": 114748,
-      "forks": 6268,
-      "starsToday": 1613
+      "starsText": "115,663",
+      "forksText": "6,322",
+      "starsTodayText": "1,396 stars today",
+      "stars": 115663,
+      "forks": 6322,
+      "starsToday": 1396
     },
     {
-      "rank": 18,
+      "rank": 19,
       "owner": "google",
       "name": "googletest",
       "fullName": "google/googletest",
@@ -287,15 +303,15 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "starsText": "39,108",
-      "forksText": "10,867",
-      "starsTodayText": "9 stars today",
-      "stars": 39108,
-      "forks": 10867,
-      "starsToday": 9
+      "starsText": "39,211",
+      "forksText": "10,874",
+      "starsTodayText": "156 stars today",
+      "stars": 39211,
+      "forks": 10874,
+      "starsToday": 156
     },
     {
-      "rank": 19,
+      "rank": 20,
       "owner": "livekit",
       "name": "agents",
       "fullName": "livekit/agents",
@@ -303,12 +319,12 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "languageColor": "#3572A5",
-      "starsText": "13,201",
-      "forksText": "3,625",
-      "starsTodayText": "14 stars today",
-      "stars": 13201,
-      "forks": 3625,
-      "starsToday": 14
+      "starsText": "13,407",
+      "forksText": "3,635",
+      "starsTodayText": "22 stars today",
+      "stars": 13407,
+      "forks": 3635,
+      "starsToday": 22
     }
   ]
 }
